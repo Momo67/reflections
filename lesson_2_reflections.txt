@@ -9,3 +9,12 @@ Only add files that have same logical changes
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When we want to test something. It helps in the possibility to go back to initial state of the files when have modified.
+
+How do the diagrams help you visualize the branch structure?
+It show us the different branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The different changes made to the files are merged together. Because all the commit done yet are made on a single branch
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+The pros: rapidity, cons: it can be some times tricky to determine which modification is the right one
