@@ -1,4 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 A new directory named .git is created. I need to do this to create the environment for tracking my files
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area only contains the files which I want to commit. It separate what I want to keep trace changes of.
+
 
