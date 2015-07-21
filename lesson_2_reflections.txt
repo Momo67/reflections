@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+A new directory named .git is created. I need to do this to create the environment for tracking my files
+
+
