@@ -4,4 +4,8 @@ A new directory named .git is created. I need to do this to create the environme
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area only contains the files which I want to commit. It separate what I want to keep trace changes of.
 
+How can you use the staging area to make sure you have one commit per logical change?
+Only add files that have same logical changes
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When we want to test something. It helps in the possibility to go back to initial state of the files when have modified.
